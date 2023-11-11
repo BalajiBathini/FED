@@ -6,6 +6,9 @@ Welcome, fellow coder! 👋 Ready to embark on the Results Summary Component jou
 
 🚀 Your mission: recreate the Results Summary Component found in the `/design` folder. Make it play nice on all screens, throw in some hover and focus states, and if you're up for it, spice things up with dynamic content from the `data.json`.
 
+## website link
+https://balajibathini.github.io/FED/
+
 ## Gear Up for Battle
 
 🧰 Grab your trusty code editor (VSCode, maybe?) and set up camp on GitHub. If Git is a bit of a mystery, fear not—there's a guide to hold your hand.
@@ -42,8 +45,8 @@ Choose a hosting solution, unveil your creation, and let the world witness your 
 3. **Social Splash**: Spread the word on LinkedIn and other digital hangouts.
 4. **Blog Bliss**: Chronicle your adventure on platforms like [dev.to](https://dev.to/) or [Hashnode](https://hashnode.com/).
 
+
 ## Words We Treasure
 
 💖 We love feedback! Have thoughts, suggestions? Reach out to hi[at]frontendmentor[dot]io. This challenge is free—spread the word!
 
-**May your coding adventure be legendary! 🚀**
